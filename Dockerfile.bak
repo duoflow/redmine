@@ -1,2 +1,0 @@
-FROM redmine:4.1
-RUN apt-get update && apt-get install -y make gcc nano wget curl
